@@ -21,7 +21,7 @@ pip3 install openpyxl
 
   <img src="https://raw.githubusercontent.com/perhamm/excel2geojson/main/1.PNG" >
 
-- поместить полученный файл, назван его input.xlsx, в папку с программой
+- поместить полученный файл, назвав его input.xlsx, в папку с программой
 - запустить так
  ```sh
 python3 py2kml.py
