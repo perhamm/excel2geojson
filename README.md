@@ -28,12 +28,12 @@ python3 py2kml.py
 ```
 - должно быть написать в выводе - что результат выполнения - успшен
 
-Пример
+  Пример
 
-<img src="https://raw.githubusercontent.com/perhamm/excel2geojson/main/2.PNG" >
+  <img src="https://raw.githubusercontent.com/perhamm/excel2geojson/main/2.PNG" >
 
 - загрузить полученный output.geojson в конструктор карт яндекса
 
-Пример результата
+  Пример результата
 
-<img src="https://raw.githubusercontent.com/perhamm/excel2geojson/main/3.PNG" >
+  <img src="https://raw.githubusercontent.com/perhamm/excel2geojson/main/3.PNG" >
