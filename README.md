@@ -14,11 +14,26 @@ pip3 install openpyxl
 
   Latitude	Longitude	Description	Label	Placemark number	Color
 
-- убедится что нет ни одного пустого поля
+- убедится что нет ни одного пустого поля (метки - label - не должны быть пустыми)
 
   Пример
 
 
   <img src="https://raw.githubusercontent.com/perhamm/excel2geojson/main/1.PNG" >
 
+- поместить полученный файл, назван его input.xlsx, в папку с программой
+- запустить так
+ ```sh
+python3 py2kml.py
+```
+- должно быть написать в выводе - что результат выполнения - успшен
 
+Пример
+
+<img src="https://raw.githubusercontent.com/perhamm/excel2geojson/main/2.PNG" >
+
+- загрузить полученный output.geojson в конструктор карт яндекса
+
+Пример результата
+
+<img src="https://raw.githubusercontent.com/perhamm/excel2geojson/main/3.PNG" >
